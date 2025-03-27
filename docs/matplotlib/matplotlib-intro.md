@@ -62,9 +62,8 @@ plt.show()
 
 这段代码会生成一个简单的折线图，横坐标是 `x`，纵坐标是 `y`。
 
-![Simple Line Plot](../public/1.png)
-
-*Fig.1 - Simple Line Plot*
+![](/1.png)
+*Fig.1*
 
 **代码解释：**
 
@@ -99,8 +98,8 @@ plt.ylabel("Y-axis")
 plt.show()
 ```
 
-![Simple Scatter Plot](../public/2.png)
-*Fig.2 - Simple Scatter Plot*
+![](/2.png)
+*Fig.2*
 
 ### 1.6.2 绘制柱状图
 
@@ -123,8 +122,8 @@ plt.ylabel("Values")
 plt.show()
 ```
 
-![Simple Bar Chart](../public/3.png)
-*Fig.3 - Simple Bar Chart*
+![](/3.png)
+*Fig.3*
 
 ## 1.7 总结
 

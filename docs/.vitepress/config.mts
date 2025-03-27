@@ -65,6 +65,7 @@ export default defineConfig({
                     text: 'Matplotlib',
                     items: [
                         {text: 'Matplotlib 简介', link: '/matplotlib/matplotlib-intro'},
+                        {text: 'Matplotlib Pyplot', link: '/matplotlib/matplotlib-pyplot'},
                     ]
                 }
             ]
