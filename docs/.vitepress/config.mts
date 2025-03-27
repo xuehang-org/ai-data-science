@@ -34,7 +34,13 @@ export default defineConfig({
                         {text: 'NumPy 从数值范围创建数组', link: '/numpy/numpy-array-from-numerical-ranges'},
                         {text: 'NumPy 切片和索引', link: '/numpy/numpy-indexing-and-slicing'},
                         {text: 'NumPy 高级索引', link: '/numpy/numpy-advanced-indexing'},
-
+                        {text: 'NumPy 广播', link: '/numpy/numpy-broadcast'},
+                        {text: 'NumPy 迭代数组', link: '/numpy/numpy-terating-over-array'},
+                        {text: 'NumPy 数组操作', link: '/numpy/numpy-array-manipulation'},
+                        {text: 'NumPy 数学函数', link: '/numpy/numpy-mathematical-functions'},
+                        {text: 'NumPy 统计函数', link: '/numpy/numpy-statistical-functions'},
+                        {text: 'NumPy 排序、条件筛选函数', link: '/numpy/numpy-sort-search'},
+                        {text: 'NumPy 线性代数', link: '/numpy/numpy-linear-algebra'},
                     ]
                 }
             ],
