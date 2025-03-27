@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "AI & Data Science"
-  text: "AI & Data Science"
-  tagline: My great project tagline
+  text: "AI 驱动的数据分析与科学计算"
+  tagline: Gemini 2.0 Flash 驱动，更智能、更快速的数据洞察
   actions:
     - theme: brand
       text: Markdown Examples
