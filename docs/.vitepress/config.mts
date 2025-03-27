@@ -66,6 +66,11 @@ export default defineConfig({
                     items: [
                         {text: 'Matplotlib 简介', link: '/matplotlib/matplotlib-intro'},
                         {text: 'Matplotlib Pyplot', link: '/matplotlib/matplotlib-pyplot'},
+                        {text: 'Matplotlib 绘图标记', link: '/matplotlib/matplotlib-marker'},
+                        {text: 'Matplotlib 绘图线', link: '/matplotlib/matplotlib-line'},
+                        {text: 'Matplotlib 轴标签和标题', link: '/matplotlib/matplotlib-label'},
+                        {text: 'Matplotlib 网格线', link: '/matplotlib/matplotlib-grid'},
+                        {text: 'Matplotlib 绘制多图', link: '/matplotlib/matplotlib-subplots'},
                     ]
                 }
             ]
