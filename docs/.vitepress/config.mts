@@ -28,6 +28,13 @@ export default defineConfig({
                         {text: 'NumPy 安装', link: '/numpy/numpy-install'},
                         {text: 'NumPy Ndarray', link: '/numpy/numpy-ndarray'},
                         {text: 'NumPy 数据类型', link: '/numpy/numpy-dtype'},
+                        {text: 'NumPy 数组属性', link: '/numpy/numpy-array-attributes'},
+                        {text: 'NumPy 创建数组', link: '/numpy/numpy-array-creation'},
+                        {text: 'NumPy 从已有的数组创建数组', link: '/numpy/numpy-array-from-existing-data'},
+                        {text: 'NumPy 从数值范围创建数组', link: '/numpy/numpy-array-from-numerical-ranges'},
+                        {text: 'NumPy 切片和索引', link: '/numpy/numpy-indexing-and-slicing'},
+                        {text: 'NumPy 高级索引', link: '/numpy/numpy-advanced-indexing'},
+
                     ]
                 }
             ],
