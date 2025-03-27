@@ -17,7 +17,7 @@ export default defineConfig({
             {text: '主页', link: '/'},
             {text: 'NumPy', link: '/numpy/numpy-introduction'},
             {text: 'Pandas', link: '/pandas/pandas-intro'},
-            {text: 'Matplotlib', link: '/matplotlib/1'},
+            {text: 'Matplotlib', link: '/matplotlib/matplotlib-intro'},
         ],
         sidebar: {
             '/numpy/': [
@@ -64,7 +64,7 @@ export default defineConfig({
                 {
                     text: 'Matplotlib',
                     items: [
-                        {text: 'Python 高级特性', link: '/characteristics/advanced-features'},
+                        {text: 'Matplotlib 简介', link: '/matplotlib/matplotlib-intro'},
                     ]
                 }
             ]
