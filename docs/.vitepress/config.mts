@@ -16,7 +16,7 @@ export default defineConfig({
         nav: [
             {text: '主页', link: '/'},
             {text: 'NumPy', link: '/numpy/numpy-introduction'},
-            {text: 'Pandas', link: '/pandas/1'},
+            {text: 'Pandas', link: '/pandas/pandas-intro'},
             {text: 'Matplotlib', link: '/matplotlib/1'},
         ],
         sidebar: {
@@ -48,7 +48,15 @@ export default defineConfig({
                 {
                     text: 'Pandas',
                     items: [
-                        {text: 'Python 面向对象', link: '/object/python-object'},
+                        {text: 'Pandas 简介', link: '/pandas/pandas-intro'},
+                        {text: 'Pandas Series', link: '/pandas/pandas-series'},
+                        {text: 'Pandas DataFrame', link: '/pandas/pandas-dataframe'},
+                        {text: 'Pandas CSV', link: '/pandas/pandas-csv-file'},
+                        {text: 'Pandas Excel', link: '/pandas/pandas-excel'},
+                        {text: 'Pandas JSON', link: '/pandas/pandas-json'},
+                        {text: 'Pandas 数据清洗', link: '/pandas/pandas-cleaning'},
+                        {text: 'Pandas 常用函数', link: '/pandas/pandas-functions'},
+                        {text: 'Pandas 数据排序与聚合', link: '/pandas/pandas-sorting'},
                     ]
                 }
             ],
